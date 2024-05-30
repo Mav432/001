@@ -1,0 +1,35 @@
+body{
+    background-image: url(/29366.jpg);
+    font-size: 100%;
+}
+h2{
+    color: aliceblue;
+}
+
+main{
+    display: flex;
+    justify-content: center;
+    border-radius: 20px;
+}
+
+.form{
+    background-color: rgba(156, 151, 151, 0.91);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    padding: 20px;
+}
+
+.informacion{
+    font-size: 30px;
+}
+
+#nombre{
+    text-transform: uppercase;
+}
+
+#apellidos{
+    width: 60ch;
+}
+
